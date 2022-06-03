@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey folks! I'm Alperen 👋
 
-<!--
-**alprenkrc/alprenkrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a computer engineering student at Firat University.
+- 🌱 I’m currently learning Java.
+
+![](https://komarev.com/ghpvc/?username=your-github-alprenkrc&label=visitors)
+
+
+### My GitHub Stats:
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=alprenkrc&show_icons=true&theme=radical)
+
+
+### My Top Langs:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alprenkrc&layout=compact&theme=radical)
+
+### Contact:
+[Linkedin](https://www.linkedin.com/in/alperen-k%C4%B1r%C4%B1c%C4%B1-001887150)	
+
+
+
+
