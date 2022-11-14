@@ -11,6 +11,8 @@
 ### My GitHub Stats:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=alprenkrc&show_icons=true&theme=radical)
 
+![](https://www.codewars.com/users/alprenkrc/badges/micro)
+
 
 ### My Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alprenkrc&layout=compact&theme=radical)
