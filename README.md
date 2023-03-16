@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m a computer engineering student at Firat University.
-- 🌱 I’m currently learning Java and React-Native
+- 🌱 I’m currently learning Java, React-Native and C#.
 
 ![](https://komarev.com/ghpvc/?username=your-github-alprenkrc&label=visitors)
 
